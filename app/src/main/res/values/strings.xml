@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="add_task">Add Task</string>
+    <string name="create_a_new_task">Tap the button to create a task</string>
+    <string name="add_content">Add Content</string>
+    <string name="note">Note</string>
+    <string name="url">Url</string>
+    <string name="switch_theme">Switch Theme</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="could_not_get_that">Could not get that</string>
+    <string name="could_not_get_picture">Could not get picture</string>
+    <string name="add_url_and_content">You need to add a url and some note</string>
+</resources>

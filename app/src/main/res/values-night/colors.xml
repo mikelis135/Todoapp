@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#263238</color>
+    <color name="grey2">#cccccc</color>
+    <color name="black">#ffffff</color>
+    <color name="white">#263238</color>
+    <color name="textHint">#cfcece</color>
+    <color name="textColor">#cccccc</color>
+    <color name="transparent">@android:color/transparent</color>
+</resources>
